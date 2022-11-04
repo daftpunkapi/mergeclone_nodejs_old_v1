@@ -23,7 +23,6 @@ async function getTickets(){
 }
 
 
-
 getTickets();
 
 // console.log(myTicket);
